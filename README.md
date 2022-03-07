@@ -1,2 +1,2 @@
 # Distance-Vector-Routing
-Implementation of network routing algorithm using distance vectors
+A routing algorithm to identify the most optimal route from sender to receiver. Utilizing distance vectors, hop count from source to destination.
